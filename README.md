@@ -13,6 +13,14 @@
 <h3>I am an 18 year old girl who loves to explore the world. Coding is my passion and my greatest discovery.</h3>
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br/>
+
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/adilababayeva13">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adilababayeva13&theme=highcontrast"/>
+  </a>
+</p>
 <h2>Connect with me</h3>
 
 <hr/>
