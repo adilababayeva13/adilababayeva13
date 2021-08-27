@@ -29,7 +29,7 @@
   <img alt="=Adila's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png"width="2.5%" ;></img></a>
+<img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png"width="5%" ;></img></a>
 </a>  
 <a href="mailto:adilababayeva13@gmail.com">
   <img alt="Adila's Email" width="35px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
@@ -73,7 +73,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="FireBase" width="5%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
+    <a href="#"><img alt="FireBase" width="10%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
 </p>
 
 ### 💻 Software and tools
@@ -83,7 +83,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Docker" width="5%" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"></a>
+    <a href="#"><img alt="Docker" width="10%" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"></a>
 </p>
 
 
