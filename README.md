@@ -87,7 +87,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="FireBase" width="10%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
+    <a href="#"><img alt="FireBase" width="11%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
 </p>
 
 ### 💻 Software and tools
