@@ -46,14 +46,14 @@
 
 <img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online"/>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app)
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app"/>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs)
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs"/>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave)
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave"/>
 
 
- <h2 align="center" >📊 My Stats</h2>
+ <h2 style="clear:both;" align="center" >📊 My Stats</h2>
 <hr/>
 <div style="display:flex; justify-content:center;align-items:center;">
   <a href="https://github.com/adilababayeva13">
