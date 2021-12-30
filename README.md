@@ -61,8 +61,8 @@
    <img alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" >
     <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
     <img alt="HTML"  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="40px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
- <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<img alt="JavaScript" width="40px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> 
+<img  alt="Node.js" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
     <img alt="SQL"width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
    <img alt="Matlab"width="40px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Matlab-icon.png">
     <img alt="Octave"width="40px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/octave-icon.png">
@@ -71,30 +71,29 @@
 ### 🧰 Frameworks and libraries
 
 <p style="display:flex;justify-content:space-around;">
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+   <img width="40px" alt="Bootstrap" src="./images/b.png">
+   <img alt="Express.js" height="40px" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+ <img align="left" alt="React" width ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
 </p>
 
 ### 🗄️ Databases and cloud hosting
 
 <p style="display:flex;justify-content:space-around;">
-    <a href="#"><img alt="GitHub Pages"width="40px" src="./images/github.png"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a>
-    <a href="#"><img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
- <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+   <img alt="GitHub Pages"width="40px" src="./images/github.png">
+   <img alt="Heroku" width="40px" src="./images/heroku.png">
+   <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+   <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+ <img align="left" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" /> 
 </p>
 
 ### 💻 Software and tools
 
 <p style="display:flex;justify-content:space-around;">
-
- <a href="https://git-scm.com/" > <img width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a>
- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
- <a href="#"><img alt="Stack Overflow" width="40px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Stackoverflow-icon.png"></a>
- <a href="#"><img width="40px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>
- <a href="#"><img alt="Docker" width="40px" src="./images/docker.png"></a>
+  <img width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
+  <img alt="Postman" width="40px" src="./images/post.png">
+  <img alt="Stack Overflow" width="40px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Stackoverflow-icon.png">
+  <img width="40px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img alt="Docker" width="40px" src="./images/docker.png">
 </p>
 
 
