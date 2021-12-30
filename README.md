@@ -1,14 +1,11 @@
-
-
-<div align="center">
+<div align="right">
  <img src="./coding.gif"></img> 
 </div>
-
 
 <hr>
 
 <h2>Hey 👋, I'm <a href="https://adilababayeva13.github.io/portfolio/">Adila</a></h2>
-<h3>I am an 18 year old girl who loves to explore the world. Coding is my passion and my greatest discovery.</h3>
+<h3>I am an 19 year old girl who loves to explore the world. Coding is my passion and my greatest discovery.</h3>
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br/>
 
