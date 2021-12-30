@@ -40,17 +40,17 @@
  <h2 align="left" >✨ My favorite repos</h2>
 <hr/>
 <div align="center">
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=P-errMon&theme=shades-of-purple" />
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=P-errMon&theme=cobalt2" />
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=twitter&theme=gruvbox_light"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=twitter&theme=swift"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online&theme=gruvbox_light"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online&theme=swift"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app&theme=shades-of-purple"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app&theme=cobalt2"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs&theme=shades-of-purple"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs&theme=cobalt2"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave&theme=gruvbox_light"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave&theme=swift"/>
 </div>
 
  <h2 style="clear:both;" align="center" >📊 My Stats</h2>
