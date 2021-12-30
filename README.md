@@ -1,17 +1,17 @@
-<div>
-<div align="right">
- <img width="320" src="./coding.gif"></img> 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer)](https://git.io/typing-svg)
+```
+![Visitor Count](https : //profile-counter.glitch.me/{adilababayeva13}/count.svg)
+```
+<div style="display:flex; justify-content:space-between;">
 
-<div align="left">
-<h2>Hey 👋, I'm <a href="https://adilababayeva13.github.io/portfolio/">Adila</a></h2>
-<h3>I am an 19 year old girl who loves to explore the world. Coding is my passion and my greatest discovery.</h3>
+<div>
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</div>
-</div>
-<hr>
+
 
 <h2><a href="https://adilababayeva13.github.io/portfolio/">Go to my website to discover me more</a></h2>
+</div>
+
+</div>
 
 <hr/>
 
@@ -19,18 +19,12 @@
 
 <p align="center">
   <a href="https://github.com/adilababayeva13">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adilababayeva13&theme=highcontrast"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adilababayeva13&theme=blux&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
 <h2>Connect with me</h3>
 
 <hr/>
-
-
-    
-<div align="center">
-<img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
 
 <p align="center">
 <br/>
