@@ -27,7 +27,8 @@
 
 <h2><a href="https://adilababayeva13.github.io/portfolio/">✨Go to my website to discover me more✨</a></h2>
 </div>
-
+ 
+ <p align="right" style="font-weight:bold;">🔥 My Streak</p>
 <hr/>
 
 <p align="center">
@@ -35,6 +36,8 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adilababayeva13&theme=blux&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
+
+ <p align="right" style="font-weight:bold;">✨ My Stats</p>
 <hr/>
 <p align="center">
   <a href="https://github.com/adilababayeva13">
