@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer)](https://git.io/typing-svg)
-```
+
 ![Visitor Count](https : //profile-counter.glitch.me/{adilababayeva13}/count.svg)
-```
+
 <div style="display:flex; justify-content:space-between;">
 
 <div>
