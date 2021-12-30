@@ -1,8 +1,6 @@
 <div align="right">
- <img src="./coding.gif"></img> 
+ <img width="60%" src="./coding.gif"></img> 
 </div>
-
-<hr>
 
 <h2>Hey 👋, I'm <a href="https://adilababayeva13.github.io/portfolio/">Adila</a></h2>
 <h3>I am an 19 year old girl who loves to explore the world. Coding is my passion and my greatest discovery.</h3>
