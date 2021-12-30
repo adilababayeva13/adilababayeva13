@@ -42,15 +42,15 @@
 <div align="center">
 <img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=P-errMon&theme=shades-of-purple" />
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=twitter&theme=algolia"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=twitter&theme=gruvbox_light"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online&theme=great-gatsby"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online&theme=gruvbox_light"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app&theme=gruvbox_light"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app&theme=shades-of-purple"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs&theme=gruvbox"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs&theme=shades-of-purple"/>
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave&theme=moltack"/>
+<img style="float:left;" src="https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave&theme=gruvbox_light"/>
 </div>
 
  <h2 style="clear:both;" align="center" >📊 My Stats</h2>
