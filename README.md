@@ -1,7 +1,7 @@
 
 
 <div align="center">
- <a href="https://iradesign.io"></a> 
+ <img src="https://iradesign.io"></img> 
 </div>
 
 
