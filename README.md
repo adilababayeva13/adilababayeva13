@@ -1,22 +1,22 @@
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer" />
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer" />
 </div>
 
 
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/adila-b/">
-  <img alt="=Adila's LinkdeIN" width="40px" src="./images/linkedin.png"/>
+  <img alt="=Adila's LinkdeIN" width="45px" src="./images/linkedin.png"/>
 </a>
 <a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
-<img src="./images/hackerrank.png" width="40px" ;></img></a>
+<img src="./images/hackerrank.png" width="45px" ;></img></a>
 </a>  
 <a href="mailto:adilababayeva13@gmail.com">
-  <img alt="Adila's Email" width="40px" src="./images/gmail.png" />
+  <img alt="Adila's Email" width="45px" src="./images/gmail.png" />
 </a>
 <a href="https://github.com/adilababayeva13">
-  <img alt="Adila's GitHub" width="40px" src="./images/github.png" />
+  <img alt="Adila's GitHub" width="45px" src="./images/github.png" />
 </a>
 </p>
 
