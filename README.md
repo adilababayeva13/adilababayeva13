@@ -1,23 +1,23 @@
 
-<div align="center">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer" />
+<div style="display:flex; justify-content:center;box-shadow:0px 18px 86px -19px #0ff;">
+<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer" />
 </div>
 
 
 <p align="center">
-<br/>
+<br/>⭐
 <a href="https://www.linkedin.com/in/adila-b/">
-  <img alt="=Adila's LinkdeIN" width="45px" src="./images/linkedin.png"/>
-</a>
+  <img alt="=Adila's LinkdeIN" width="50px" src="./images/linkedin.png"/>
+</a>⭐
 <a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
-<img src="./images/hackerrank.png" width="45px" ;></img></a>
-</a>  
+<img src="./images/hackerrank.png" width="50px" ;></img></a>
+</a>⭐
 <a href="mailto:adilababayeva13@gmail.com">
-  <img alt="Adila's Email" width="45px" src="./images/gmail.png" />
-</a>
+  <img alt="Adila's Email" width="50px" src="./images/gmail.png" />
+</a>⭐
 <a href="https://github.com/adilababayeva13">
-  <img alt="Adila's GitHub" width="45px" src="./images/github.png" />
-</a>
+  <img alt="Adila's GitHub" width="50px" src="./images/github.png" />
+</a>⭐
 </p>
 
 
@@ -25,7 +25,7 @@
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
-<h2><a href="https://adilababayeva13.github.io/portfolio/">Go to my website to discover me more</a></h2>
+<h2><a href="https://adilababayeva13.github.io/portfolio/">✨Go to my website to discover me more✨</a></h2>
 </div>
 
 
