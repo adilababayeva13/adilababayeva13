@@ -4,6 +4,22 @@
 </div>
 
 
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/adila-b/">
+  <img alt="=Adila's LinkdeIN" width="40px" src="./images/linkedin.png"/>
+</a>
+<a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
+<img src="./images/hackerrank.png" width="40px" ;></img></a>
+</a>  
+<a href="mailto:adilababayeva13@gmail.com">
+  <img alt="Adila's Email" width="40px" src="./images/gmail.png" />
+</a>
+<a href="https://github.com/adilababayeva13">
+  <img alt="Adila's GitHub" width="40px" src="./images/github.png" />
+</a>
+</p>
+
 
 <div>
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -22,27 +38,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adilababayeva13&theme=blux&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
-<h2>Connect with me</h3>
 
-<hr/>
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/adila-b/">
-  <img alt="=Adila's LinkdeIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1639909577~hmac=ec8638f5b6b82fc0d910170ef174f44e" />
-</a>
-<a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png"width="5%" ;></img></a>
-</a>  
-<a href="mailto:adilababayeva13@gmail.com">
-  <img alt="Adila's Email" width="35px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
-</a>
-<a href="https://github.com/adilababayeva13">
-  <img alt="Adila's GitHub" width="35px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
-</a>
-</p>
 
-<hr/>
 
 ## 🛠️ My Tools
 <br/>
