@@ -90,6 +90,7 @@
    <img width="40px" alt="Bootstrap" src="./images/b.png">
    <img alt="Express.js" height="40px" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
  <img align="left" alt="React" width ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
+ <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -97,8 +98,8 @@
 <p style="display:flex;justify-content:space-around;">
    <img alt="GitHub Pages"width="40px" src="./images/github.png">
    <img alt="Heroku" width="40px" src="./images/heroku.png">
-   <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-   <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+   <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+   <img alt="MySQL" width="40px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
  <img align="left" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" /> 
 </p>
 
