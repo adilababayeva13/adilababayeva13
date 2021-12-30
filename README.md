@@ -37,8 +37,8 @@
 
 <p align="center">
 <br/>
-<a href="www.linkedin.com/in/adila-b">
-  <img alt="=Adila's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://www.linkedin.com/in/adila-b/">
+  <img alt="=Adila's LinkdeIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1639909577~hmac=ec8638f5b6b82fc0d910170ef174f44e" />
 </a>
 <a href="https://www.hackerrank.com/adilababayeva13?hr_r=1" target="_blank">
 <img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png"width="5%" ;></img></a>
@@ -59,14 +59,14 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+   <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 
 </p>
 
@@ -85,7 +85,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="FireBase" width="10%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
+    <a href="#"><img alt="FireBase" width="11%" src="https://www.phpnasp.com/wp-content/uploads/2018/07/logo-standard.png"></a>
 </p>
 
 ### 💻 Software and tools
