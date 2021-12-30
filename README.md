@@ -92,4 +92,4 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<img src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
+<img align="center" src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
