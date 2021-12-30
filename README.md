@@ -1,5 +1,5 @@
 <div align="right">
- <img width="60%" src="./coding.gif"></img> 
+ <img width="320" src="./coding.gif"></img> 
 </div>
 
 <h2>Hey 👋, I'm <a href="https://adilababayeva13.github.io/portfolio/">Adila</a></h2>
