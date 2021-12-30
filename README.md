@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer" />
+</div>
 
 
-
-<div style="display:flex; justify-content:space-between;">
 
 <div>
 <p><em>I'am studying Computer Science at <a href="http://asoiu.edu.az/en">Azerbaijan State Oil and Industry University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -11,11 +12,10 @@
 <h2><a href="https://adilababayeva13.github.io/portfolio/">Go to my website to discover me more</a></h2>
 </div>
 
-</div>
+
 
 <hr/>
 
-## 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/adilababayeva13">
