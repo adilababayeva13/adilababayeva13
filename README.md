@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+I'm+Adila;I+am+Web+Developer)](https://git.io/typing-svg)
 
-<img src="https : //profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
+
 
 <div style="display:flex; justify-content:space-between;">
 
@@ -92,3 +92,4 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
+<img src="https://profile-counter.glitch.me/{adilababayeva13}/count.svg"/>
