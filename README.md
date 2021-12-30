@@ -28,7 +28,7 @@
 <h2><a href="https://adilababayeva13.github.io/portfolio/">✨Go to my website to discover me more✨</a></h2>
 </div>
  
- <p align="right" style="font-weight:bold;">🔥 My Streak</p>
+ <h2 align="right" style="font-weight:bold;">🔥 My Streak</h2>
 <hr/>
 
 <p align="center">
@@ -37,15 +37,17 @@
   </a>
 </p>
 
- <p align="right" style="font-weight:bold;">✨ My Stats</p>
+ <h2 align="right" style="font-weight:bold;">📊 My Stats</h2>
 <hr/>
-<p align="center">
+<div style="display:flex; justify-content:space-around;align-items:center;">
   <a href="https://github.com/adilababayeva13">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak" src="https://github-readme-stats.vercel.app/api?username=adilababayeva13&theme=yeblu"/>
   </a>
-</p>
 
-
+  <a href="https://github.com/adilababayeva13">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilababayeva13&layout=compact&theme=yeblu"/>
+  </a>
+</div>
 
 
 
