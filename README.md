@@ -37,6 +37,23 @@
   </a>
 </p>
 
+ <h2 align="left" >✨ My favorite repos</h2>
+<hr/>
+<div style="display:flex;justify-content:center;">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=P-errMon)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=twitter)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=RSP.online)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=liri-node-app)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=Hangman.Reactjs)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilababayeva13&repo=GNU-Octave)
+
+</div>
  <h2 align="center" >📊 My Stats</h2>
 <hr/>
 <div style="display:flex; justify-content:center;align-items:center;">
