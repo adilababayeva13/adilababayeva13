@@ -56,18 +56,16 @@
  <h2 style="clear:both;" align="center" >📊 My Stats</h2>
 <hr/>
 
-  <a style="width:100px;" href="https://github.com/adilababayeva13"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak"  height="190px" src="https://github-readme-stats.vercel.app/api?username=adilababayeva13&theme=yeblu"/>
-  </a>
+  <a style="width:100px;float:left;" href="https://github.com/adilababayeva13"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak"  height="190px" src="https://github-readme-stats.vercel.app/api?username=adilababayeva13&theme=yeblu"/></a>
 
   <a href="https://github.com/adilababayeva13">
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilababayeva13&layout=compact&theme=yeblu"/>
-  </a>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilababayeva13&layout=compact&theme=yeblu"/></a>
 
 
 
 
 
-<h2> 🛠️ My Tools</h2>
+<h2 style="clear:both;"> 🛠️ My Tools</h2>
 <br/>
 
 ### 👨‍💻 Programming languages
