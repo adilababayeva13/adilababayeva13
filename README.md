@@ -56,7 +56,7 @@
  <h2 style="clear:both;" align="center" >📊 My Stats</h2>
 <hr/>
 
-  <a href="https://github.com/adilababayeva13"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak"  height="190px" src="https://github-readme-stats.vercel.app/api?username=adilababayeva13&theme=yeblu"/>
+  <a style="width:100px;" href="https://github.com/adilababayeva13"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adila's streak"  height="190px" src="https://github-readme-stats.vercel.app/api?username=adilababayeva13&theme=yeblu"/>
   </a>
 
   <a href="https://github.com/adilababayeva13">
