@@ -71,13 +71,14 @@
 ### 👨‍💻 Programming languages
 
 <p style="display:flex;justify-content:space-around;">
-   <img alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" >
+    <img alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" >
     <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+    <img alt="SASS" width="40px" src="https://img.icons8.com/color/48/000000/sass.png"/> 
     <img alt="HTML"  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img alt="JavaScript" width="40px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> 
-<img  alt="Node.js" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+    <img alt="JavaScript" width="40px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> 
+    <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
     <img alt="SQL"width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-   <img alt="Matlab"width="40px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Matlab-icon.png">
+    <img alt="Matlab"width="40px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Matlab-icon.png">
     <img alt="Octave"width="40px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/octave-icon.png">
 </p>
 
