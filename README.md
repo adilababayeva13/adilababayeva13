@@ -84,7 +84,7 @@
 
 ### 🧰 Frameworks and libraries
 
-<p style="display:flex;justify-content:space-around;">
+<p style="display:flex;justify-content:space-around;align-items:center;">
    <img width="40px" alt="Bootstrap" src="./images/b.png">
    <img alt="Express.js" height="40px" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
    <img align="left" alt="React" width ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
