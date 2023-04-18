@@ -18,6 +18,9 @@
 <a href="https://github.com/adilababayeva13">
   <img alt="Adila's GitHub" width="50px" src="./images/github.png" />
 </a>⭐
+<a href="https://cssbattle.dev/player/adila">
+  <img alt="Adila's CSSBattle profile" width="50px"   src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" />
+</a>⭐
 </p>
 
 
